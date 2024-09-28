@@ -18,10 +18,6 @@ At Revive Health Consulting, we believe that everyone deserves access to quality
 - 🌍 **Inclusivity**: We promote a culture of inclusivity, ensuring that our services are accessible to all individuals, regardless of their background or circumstances.
 - 🤝 **Collaboration**: We believe in the power of community and collaboration, working together with clients, professionals, and advocates to achieve our shared goals.
 
-## Contribution Guidelines
-
-We welcome contributions from developers, designers, and mental health advocates! If you’re interested in supporting our mission through code, design, or ideas, please check our [Contributing Guidelines](link-to-contributing-file) for more information. 🌟
-
 ## Connect with Us
 
 Stay updated with our latest projects and initiatives by following us on social media or visiting our website: [Revive Health Consulting](https://www.revivehealthconsulting.org/). 🌐
